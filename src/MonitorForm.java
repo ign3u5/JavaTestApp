@@ -2,7 +2,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import java.awt.event.*;
-import java.io.IOException;
 
 public class MonitorForm implements ActionListener {
     JLabel lTest = new JLabel();
